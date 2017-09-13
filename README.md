@@ -1,0 +1,2 @@
+# HitoriScala
+Scala hitori solver
